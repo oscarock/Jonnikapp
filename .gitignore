@@ -1,0 +1,16 @@
+# .gitignore
+
+# Laravel (backend)
+backend/vendor/
+backend/node_modules/
+backend/public/storage
+backend/storage/*.key
+backend/.env
+
+# React (frontend)
+frontend/node_modules/
+frontend/build/
+
+# Docker
+*.log
+docker-compose.override.yml

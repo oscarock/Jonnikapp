@@ -1,0 +1,8 @@
+parameters:
+    level: max
+    paths:
+        - app
+        - routes
+
+    bootstrapFiles:
+        - vendor/autoload.php

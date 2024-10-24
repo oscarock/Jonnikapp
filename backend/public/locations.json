@@ -1,0 +1,14 @@
+[
+  {
+      "code": 1,
+      "name": "Sede Central",
+      "image": "https://via.placeholder.com/150",
+      "creationDate": "2024-01-01"
+  },
+  {
+      "code": 2,
+      "name": "Sede Norte",
+      "image": "https://via.placeholder.com/150",
+      "creationDate": "2024-02-01"
+  }
+]
